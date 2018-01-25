@@ -1,3 +1,4 @@
+# [[BareAvr.png]]  Bare AVR
 
 | Prev | Up | Next |
 | :--- | :---: | ---: |

@@ -1,3 +1,4 @@
+[[../BareAvr.png]]
 
 | Prev | Up | Next |
 | :--- | :---: | ---: |
