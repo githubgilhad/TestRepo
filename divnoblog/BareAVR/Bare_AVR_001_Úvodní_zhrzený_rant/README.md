@@ -9,9 +9,9 @@
 
 <table width="100%">
 <tr>
-<td align="left">Prev: [Bare_AVR_000_Index](../) </td>
-<td align="center">Up: [Bare_AVR_000_Index](../) </td>
-<td align="right">Next: [Bare_AVR_000_Index](../) </td>
+<td align="left">Prev: <a href="../">Bare_AVR_000_Index</a> </td>
+<td align="center">Up: <img src="../BareAvr.png"><a href="../">Bare_AVR_000_Index</a> </td>
+<td align="right">Next: <a href="../Bare_AVR_002_Začínám]">Bare_AVR_002_Začínám</a> </td>
 </tr>
 </table>
 
