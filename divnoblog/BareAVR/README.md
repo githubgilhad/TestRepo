@@ -1,12 +1,16 @@
-# Index of Divnoblog / [BareAVR tag](https://divnoblog.wordpress.com/tag/bareavr/)
 
-See also [Bare AVR 000 - Index](https://divnoblog.wordpress.com/2018/01/20/bare-avr-000-index/)
+| Prev | Up | Next |
+| :--- | :---: | ---: |
+| None| [divnoblog](../) | None |
+
+# Index of Divnoblog / BareAVR tag
+
+
+See also 
+* [Divnoblog/BareAVR tag](https://divnoblog.wordpress.com/tag/bareavr/)
+* [Bare AVR 000 - Index](https://divnoblog.wordpress.com/2018/01/20/bare-avr-000-index/)
 
 ---
-
-
-| :--- | :---: | ---: |
-|< None|^ [divnoblog](../)|> None|
 
 
 * [Bare_AVR_000_Index](Bare_AVR_000_Index)
