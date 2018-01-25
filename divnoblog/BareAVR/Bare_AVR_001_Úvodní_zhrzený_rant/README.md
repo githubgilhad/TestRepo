@@ -7,6 +7,14 @@
 | :--- | :---: | ---: |
 | [Bare_AVR_000_Index](../) | [Bare_AVR_000_Index](../) | [Bare_AVR_002_Začínám](../Bare_AVR_002_Začínám) |
 
+<table width="100%">
+<tr>
+<td align="left">Prev: [Bare_AVR_000_Index](../) </td>
+<td align="center">Up: [Bare_AVR_000_Index](../) </td>
+<td align="right">Next: [Bare_AVR_000_Index](../) </td>
+</tr>
+</table>
+
 # Bare AVR 001 - Úvodní zhrzený rant
 
 Blah blah blah
