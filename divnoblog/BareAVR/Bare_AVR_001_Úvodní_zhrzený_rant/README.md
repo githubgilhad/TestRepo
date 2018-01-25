@@ -1,4 +1,4 @@
-[[../BareAvr.png|logo]]
+![logo](../BareAvr.png)
 
 | Prev | Up | Next |
 | :--- | :---: | ---: |

@@ -1,4 +1,4 @@
-# [[BareAvr.png]]  Bare AVR
+# ![logo](BareAvr.png)  Bare AVR
 
 | Prev | Up | Next |
 | :--- | :---: | ---: |
