@@ -4,7 +4,7 @@ See also [Bare AVR 000 - Index](https://divnoblog.wordpress.com/2018/01/20/bare-
 
 ---
 
-|:-|:-:|-:|
+|:---|:---:|---:|
 |< None|^ [divnoblog](../)|> None|
 
 
