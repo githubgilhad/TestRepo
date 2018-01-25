@@ -1,4 +1,4 @@
-[[../BareAvr.png]]
+[[../BareAvr.png|logo]]
 
 | Prev | Up | Next |
 | :--- | :---: | ---: |
@@ -7,3 +7,5 @@
 # Bare AVR 001 - Úvodní zhrzený rant
 
 Blah blah blah
+
+also [scan_codes.cpp](scan_codes.cpp) and [./scan_codes.h](./scan_codes.h) 
