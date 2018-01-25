@@ -1,3 +1,3 @@
 # Divnoblog BareAVR (and others) backup
 
-* [BareAVR] (BareAVR)
+* [BareAVR] (./BareAVR/README.md)
